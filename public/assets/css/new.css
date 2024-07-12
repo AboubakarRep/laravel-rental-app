@@ -1,0 +1,9 @@
+.properties {
+    margin-bottom: 50px; /* Ajoutez une marge inférieure à la section des véhicules */
+}
+
+.footer {
+    background-color: #f2f2f2; /* Couleur de fond du footer */
+    padding: 20px; /* Espacement interne du footer */
+    text-align: center; /* Centrer le texte du footer */
+}
